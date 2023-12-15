@@ -17,7 +17,7 @@ If we do move forward, you'll receive another email containing the following:
     instructions:
     
     1. fork the interview repo on github and clone it locally
-    2. use your forked repo to complete your asignment
+    2. complete your asignment under the `submission/` directory in your forked repo
     3. track your progress by making regular commits
     4. When you're finished, make a pull request to the original repo, leaving any notes or instructions we may need to run your code
     
