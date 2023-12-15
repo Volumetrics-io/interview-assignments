@@ -25,3 +25,7 @@ If we do move forward, you'll receive another email containing the following:
 ## Compensation
 
 We understand that a take home assignment requires a larger investment of time and energy. As such, we're committed to compensating each selected candidate for their time. This is for your time and not the artifact you produce, that is yours to keep.
+
+## Interested?
+
+If you're interested in working with us, email us @ [jobs@volumetrics.io](mailto:jobs@volumetrics.io)
