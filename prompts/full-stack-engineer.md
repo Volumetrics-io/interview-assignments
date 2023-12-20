@@ -17,7 +17,7 @@ Make a 2+ player game using mr.js & WebRTC
 
 ## deliverables
 
-* a link to a git repo with the code
+* a pull request to this repo from your forked repo
 * a link to the functional demo
 
 ## what we're measuring
