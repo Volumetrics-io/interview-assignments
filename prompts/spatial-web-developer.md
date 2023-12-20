@@ -9,8 +9,6 @@ Make an interactive Spatial App using mr.js
 * 2D UI and 3D content must connect in some way
 * Must utilize both the HTML and JS APIs
 
-    \
-
 **Difficulty:** moderate
 
 **deadline:** 3 days from receiving the assignment
